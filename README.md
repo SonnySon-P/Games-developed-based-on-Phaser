@@ -8,7 +8,7 @@
 
 **遊戲解說：** 進行遊戲過程，必須避開敵人，並吃足夠金幣，直到地圖的尾聲，方可闖關成功。
 
-<br
+<br>
 <div align="center">
 	<img src="./遊戲截圖.png" alt="Editor" width="500">
 </div>
