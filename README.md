@@ -14,7 +14,7 @@
 </div>
 <br>
 
-**遊戲圖檔：** 參考程式教學資源：
+**學習資源：** 參考以下的教學網站：
 <a href="https://connectshark.github.io/Phaser3/progressBar.html" title="Learning resources">Learning resources by NoseGates</a>
 
 **遊戲圖檔：** 圖檔來源，主要來自於以下幾個：
