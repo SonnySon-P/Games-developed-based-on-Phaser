@@ -21,6 +21,6 @@
 1. 金幣：<a href="https://www.flaticon.com/free-icons/coin" title="Coin image">Coin icons created by NajmunNahar - Flaticon</a>
 2. 人物：<a href="https://github.com/10cl/chatdev/tree/main?tab=readme-ov-file#-prompt-ide" title="Tileset image">Character image source by 10cl</a>
 3. 物件：<a href="https://cainos.itch.io/pixel-art-platformer-village-props" title="Tileset image">Object image source by Cainos</a>
-3. 背景：<a href="https://sanctumpixel.itch.io/forest-lite-pixel-art-tileset" title="Tileset image">Background image source by sanctumpixel</a>
+3. 背景：<a href="https://sanctumpixel.itch.io/forest-lite-pixel-art-tileset" title="Tileset image">Background image source by Sanctumpixel</a>
 
 **操作方式：** 遊戲操作方式，是透過鍵盤左右間移動，按下空白鍵可以進行跳躍。
