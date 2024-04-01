@@ -19,7 +19,7 @@
 
 **遊戲圖檔：** 圖檔來源，主要來自於以下幾個：
 1. 金幣：<a href="https://www.flaticon.com/free-icons/coin" title="Coin image">Coin icons created by NajmunNahar - Flaticon</a>
-2. 人物：<a href="https://twitter.com/pipohi" title="Tileset image">Character design source by ぴぽ (@pipohi)(下載於ChatDev IDE的GitHub，但圖片來源自ぴぽ (@pipohi))</a>
+2. 人物：<a href="https://twitter.com/pipohi" title="Tileset image">Character design source by ぴぽ (@pipohi)(下載於ChatDev IDE的GitHub，但圖片來源自Generative Agents: Interactive Simulacra of Human Behavior論文的GitHub，根據該網站說明，為藝術家ぴぽ (@pipohi)提供(根據論文網站的Apache-2.0 license使用))</a>
 3. 物件：<a href="https://cainos.itch.io/pixel-art-platformer-village-props" title="Tileset image">Object image source by Cainos</a>
 3. 背景：<a href="https://sanctumpixel.itch.io/forest-lite-pixel-art-tileset" title="Tileset image">Background image source by Sanctumpixel</a>
 
